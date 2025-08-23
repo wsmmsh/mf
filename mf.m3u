@@ -5,7 +5,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="央视",CCTV2
 https://tv-1.iill.top/migu/cctv2
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="央视",CCTV2
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
+http://42.225.117.174:11199/tsfile/live/0002_1.m3u8
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="央视",CCTV3
 https://tv-1.iill.top/migu/cctv3
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="央视",CCTV3
