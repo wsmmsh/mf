@@ -397,7 +397,7 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qsjlHD/__op/defa
 #EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼录.png"  group-title="体育💓纪录",四海钓鱼
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/migu/637444975.m3u8?migutoken=2843f8ae750464f6a4f744ba84497ab2409de6cafc3dceeb9b6442fdbcf78efb47df9782b79b71471b8cbef9b428653a4e95f810e2f93c5f2ec91be85bb1d7275ecbe5fe3a39212e22ff75f9f6
-#EXTINF:-1 group-title="体育💓纪录",四海钓鱼
+#EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼录.png"  group-title="体育💓纪录",四海钓鱼
 https://tv-1.iill.top/migu/shdy
 #EXTINF:-1 group-title="体育💓纪录",新片放映
 https://tv-1.iill.top/migu/xpfy
@@ -407,6 +407,3 @@ https://tv-1.iill.top/migu/gqdp
 https://tv-1.iill.top/migu/kzjd
 #EXTINF:-1 group-title="体育💓纪录",红色轮播
 https://tv-1.iill.top/migu/xssh
-
-
-
