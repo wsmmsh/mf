@@ -85,20 +85,14 @@ https://tv-1.iill.top/migu/kzjd
 #EXTINF:-1,红色轮播
 https://tv-1.iill.top/migu/xssh
 
+
 #EXTINF:-1 group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://bxtv.3a.ink/api.php?id=fhhk
+
 
 
 #EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png"  group-title="💓专享卫视",东方卫视
