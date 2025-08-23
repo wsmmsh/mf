@@ -70,11 +70,11 @@ https://live.sxrtv.com/iptv/cctv17.flv
 https://tv-1.iill.top/migu/cctv17
 #EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png"  group-title="央视",CCTV17
 http://110.42.54.199:35455/mgtv/673168256.m3u8
-#EXTINF:-1  tvg-name="CETV1" tvg-logo="http://gh.qninq.cn/https://github.com/fanmingming/live/blob/main/tv/CETV1.png"  group-title="中国教育",CETV1
+#EXTINF:-1  tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png"  group-title="中国教育",CETV1
 https://tv-1.iill.top/migu/cetv1
-#EXTINF:-1  tvg-name="CETV2" tvg-logo="http://gh.qninq.cn/https://github.com/wsmmsh/mf/blob/main/images/CETV2.png"  group-title="中国教育",CETV2
+#EXTINF:-1  tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png"  group-title="中国教育",CETV2
 https://tv-1.iill.top/migu/cetv2
-#EXTINF:-1  tvg-name="CETV4" tvg-logo="http://gh.qninq.cn/https://github.com/fanmingming/live/blob/main/tv/CETV4.png"  group-title="中国教育",CETV4
+#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png"  group-title="中国教育",CETV4
 https://tv-1.iill.top/migu/cetv4
 
 #EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="http://gh.qninq.cn/https://github.com/fanmingming/live/blob/main/tv/fenghuangzhongwen.png"  group-title="港澳台",凤凰中文
@@ -134,5 +134,91 @@ https://tv-1.iill.top/migu/gnxy
 https://tv-1.iill.top/migu/kzjd
 #EXTINF:-1,红色轮播
 https://tv-1.iill.top/migu/xssh
+
+
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png"  group-title="💓专享卫视",北京卫视
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
+#EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png"  group-title="💓专享卫视",东南卫视
+https://smart.pendy.dpdns.org/Smart.php?id=fujian
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png"  group-title="💓专享卫视",深圳卫视
+https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+#EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png"  group-title="💓专享卫视",广西卫视
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+#EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png"  group-title="💓专享卫视",湖北卫视
+https://smart.pendy.dpdns.org/Smart.php?id=hubei
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png"  group-title="💓专享卫视",深圳卫视
+https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+#EXTINF:-1  tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png"  group-title="💓专享卫视",湖南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873458.m3u8
+#EXTINF:-1  tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png"  group-title="💓专享卫视",浙江卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873464.m3u8
+#EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png"  group-title="💓专享卫视",江苏卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873461.m3u8
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png"  group-title="💓专享卫视",东方卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873462.m3u8
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png"  group-title="💓专享卫视",北京卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870776.m3u8
+#EXTINF:-1  tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png"  group-title="💓专享卫视",广东卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873459.m3u8
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png"  group-title="💓专享卫视",深圳卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png"  group-title="💓专享卫视",东南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873473.m3u8
+#EXTINF:-1  tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png"  group-title="💓专享卫视",山东卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873467.m3u8
+#EXTINF:-1  tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png"  group-title="💓专享卫视",安徽卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873469.m3u8
+#EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png"  group-title="💓专享卫视",天津卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873466.m3u8
+#EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png"  group-title="💓专享卫视",湖北卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873465.m3u8
+#EXTINF:-1 group-title="💓专享卫视",辽宁卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873468.m3u8
+#EXTINF:-1  tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png"  group-title="💓专享卫视",江西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796511.m3u8
+#EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png"  group-title="💓专享卫视",河北卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873460.m3u8
+#EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png"  group-title="💓专享卫视",河北卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887382.m3u8
+#EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png"  group-title="💓专享卫视",黑龙江卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873470.m3u8
+#EXTINF:-1 group-title="💓专享卫视",重庆卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796458.m3u8
+#EXTINF:-1  tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png"  group-title="💓专享卫视",贵州卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873471.m3u8
+#EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png"  group-title="💓专享卫视",吉林卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972569.m3u8
+#EXTINF:-1  tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png"  group-title="💓专享卫视",四川卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887274.m3u8
+#EXTINF:-1  tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png"  group-title="💓专享卫视",海南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796877.m3u8
+#EXTINF:-1  tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png"  group-title="💓专享卫视",河南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887270.m3u8
+#EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png"  group-title="💓专享卫视",广西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887394.m3u8
+#EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png"  group-title="💓专享卫视",山西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887413.m3u8
+#EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png"  group-title="💓专享卫视",云南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887453.m3u8
+#EXTINF:-1 group-title="💓专享卫视",陕西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887404.m3u8
+#EXTINF:-1  tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png"  group-title="💓专享卫视",内蒙古卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887427.m3u8
+#EXTINF:-1 group-title="💓专享卫视",甘肃卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887450.m3u8
+#EXTINF:-1  tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png"  group-title="💓专享卫视",宁夏卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887433.m3u8
+#EXTINF:-1 group-title="💓专享卫视",青海卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887430.m3u8
+#EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png"  group-title="💓专享卫视",新疆卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887448.m3u8
+#EXTINF:-1 group-title="💓专享卫视",西藏卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887434.m3u8
+#EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png"  group-title="💓专享卫视",三沙卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887452.m3u8
+#EXTINF:-1  tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png"  group-title="💓专享卫视",兵团卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887456.m3u8
+#EXTINF:-1  tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png"  group-title="💓专享卫视",厦门卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887454.m3u8
 
 
