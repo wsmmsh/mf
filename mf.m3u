@@ -174,8 +174,8 @@ http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="省份卫视",山西卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
 
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
+#:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
+#http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
 
 #EXTINF:-1  tvg-name="辽宁卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/辽宁卫视.png"  group-title="省份卫视",辽宁卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
@@ -283,12 +283,13 @@ http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 https://tv-1.iill.top/migu/sxws
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000007495
 
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/甘肃卫视.png" group-title="省份卫视",甘肃卫视
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010098
-http://180.165.132.50:5003/gsws.m3u8?token=7375646f484b0da30cd3b1925793ddc32895d8c0&z=1f48
-http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=GSWSeP/index.m3u8
+#EXTINF::-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/甘肃卫视.png" group-title="省份卫视",甘肃卫视
+http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
+#http://180.165.132.50:5003/gsws.m3u8?token=7375646f484b0da30cd3b1925793ddc32895d8c0&z=1f48
+#http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=GSWSeP/index.m3u8
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/青海卫视.png"  group-title="省份卫视",青海卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiHD/__op/default/__f/index.m3u8
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 
 #EXTINF:-1  tvg-name="宁夏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/宁夏卫视.png"  group-title="省份卫视",宁夏卫视
@@ -348,9 +349,6 @@ https://tv-1.iill.top/migu/kzjd
 https://tv-1.iill.top/migu/xssh
 #EXTINF:-1 group-title="体育💓纪录",风云足球
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/五星体育.png" group-title="体育💓纪录",五星体育
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
-https://hls-gateway.vpstv.net/streams/636980.m3u8
 #EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/求索纪录.png"  group-title="体育💓纪录",求索纪录
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="体育💓纪录",四海钓鱼
