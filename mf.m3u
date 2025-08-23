@@ -71,27 +71,27 @@ https://tv-1.iill.top/migu/cctv17
 #EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png"  group-title="央视",CCTV17
 http://110.42.54.199:35455/mgtv/673168256.m3u8
 
-#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzhongwen.png"  group-title="港澳台",凤凰中文
+#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png"  group-title="港澳台",凤凰中文
 http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzhongwen.png"  group-title="港澳台",凤凰中文
+#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png"  group-title="港澳台",凤凰中文
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzhongwen.png"  group-title="港澳台",凤凰中文
+#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png"  group-title="港澳台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzhongwen.png"  group-title="港澳台",凤凰中文
+#EXTINF:-1  tvg-name="fenghuangzhongwen" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png"  group-title="港澳台",凤凰中文
 https://tv-1.iill.top/phenix/fhzw
-#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
+#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
 http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
+#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
+#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
+#EXTINF:-1  tvg-name="fenghuangzixun" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangzixun.png"  group-title="港澳台",凤凰资讯
 https://tv-1.iill.top/phenix/fhzx  
-#EXTINF:-1  tvg-name="fenghuangxianggang" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangxianggang.png"  group-title="港澳台",凤凰香港
+#EXTINF:-1  tvg-name="fenghuangxianggang" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangxianggang.png"  group-title="港澳台",凤凰香港
 http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1  tvg-name="fenghuangxianggang" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangxianggang.png"  group-title="港澳台",凤凰香港
+#EXTINF:-1  tvg-name="fenghuangxianggang" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangxianggang.png"  group-title="港澳台",凤凰香港
 https://tv-1.iill.top/phenix/fhhk
-#EXTINF:-1  tvg-name="fenghuangxianggang" tvg-logo="https://demo.52013120.xyz/https://github.com/fanmingming/live/blob/main/tv/fenghuangxianggang.png"  group-title="港澳台",凤凰香港
+#EXTINF:-1  tvg-name="fenghuangxianggang" tvg-logo="https://ghproxy.net/https://github.com/fanmingming/live/blob/main/tv/fenghuangxianggang.png"  group-title="港澳台",凤凰香港
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -101,9 +101,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 http://php.jdshipin.com/PLTV/iptv.php?id=as
 #EXTINF:-1 group-title="港澳台",澳视澳门
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 group-title="港澳台",中天新闻台
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png",中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
 
 
 #EXTINF:-1  tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png"  group-title="中国教育",CETV1
@@ -290,3 +291,6 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/defa
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="体育💓纪录",四海钓鱼
 https://tv-1.iill.top/migu/shdy
+
+
+
