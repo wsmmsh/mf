@@ -153,8 +153,8 @@ http://bxtv.3a.ink/api.php?id=ztxw
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="山西省内",山西卫视
-http://111.43.126.240:9003/hls/61/index.m3u8
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/mcp/shanxi.m3u8
 #EXTINF:-1 group-title="山西省内",五台综合
 https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
@@ -355,6 +355,9 @@ https://tv-1.iill.top/migu/cetv4
 #EXTINF:-1  tvg-name="CETV4" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV4.png"  group-title="中国教育",CETV4
 http://8.138.7.223/tv/migu666.php?name=CETV4
 
+
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="体育💓纪录,五星体育
+https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 #EXTINF:-1 group-title="体育💓纪录",CHC影迷电影
 https://tv-1.iill.top/migu/chcym
 #EXTINF:-1 group-title="体育💓纪录",CHC动作电影
