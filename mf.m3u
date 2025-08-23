@@ -102,88 +102,135 @@ https://tv-1.iill.top/migu/cetv4
 http://8.138.7.223/tv/migu666.php?name=CETV4
 
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
-http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
+http://php.jdshipin.com/TVOD/gsyd.php?id=9900000516
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
+https://migu.188766.xyz/?migutoken=4de3a99b22fd347ac2c3019df7c6454b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
 http://111.43.126.240:9003/hls/41/index.m3u8
 
+#EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png"  group-title="📡卫视频道",天津卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png"  group-title="📡卫视频道",河北卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png"  group-title="📡卫视频道",东方卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
 http://111.43.126.240:9003/hls/39/index.m3u8
 
+#EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png"  group-title="📡卫视频道",山西卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
 
-#EXTINF:-1 group-title="💓专享卫视",重庆卫视
-http://8.138.7.223/tv/migu.php?id=cqws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png",吉林卫视
-http://8.138.7.223/tv/migu.php?id=jlws
-#EXTINF:-1 group-title="💓专享卫视",辽宁卫视
-http://8.138.7.223/tv/migu.php?id=lnws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png",内蒙古卫视
-http://8.138.7.223/tv/migu.php?id=nmws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png",宁夏卫视
-http://8.138.7.223/tv/migu.php?id=nxws
-#EXTINF:-1 group-title="💓专享卫视",甘肃卫视
-http://8.138.7.223/tv/migu.php?id=gsws
-#EXTINF:-1 group-title="💓专享卫视",青海卫视
-http://8.138.7.223/tv/migu.php?id=qhws
-#EXTINF:-1 group-title="💓专享卫视",陕西卫视
-http://8.138.7.223/tv/migu.php?id=sxws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",山东卫视
-http://8.138.7.223/tv/migu.php?id=sdws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png",河南卫视
-http://8.138.7.223/tv/migu.php?id=hnws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png",湖北卫视
-http://8.138.7.223/tv/migu.php?id=hubws
+#EXTINF:-1 group-title="📡卫视频道",辽宁卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png"  group-title="📡卫视频道",吉林卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png"  group-title="📡卫视频道",黑龙江卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png"  group-title="📡卫视频道",江苏卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png"  group-title="📡卫视频道",安徽卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png"  group-title="📡卫视频道",江西卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png"  group-title="📡卫视频道",河南卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png"  group-title="📡卫视频道",湖北卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png"  group-title="📡卫视频道",广东卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png"  group-title="📡卫视频道",深圳卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png"  group-title="📡卫视频道",广西卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png"  group-title="📡卫视频道",海南卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png"  group-title="📡卫视频道",四川卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png"  group-title="📡卫视频道",贵州卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png"  group-title="📡卫视频道",云南卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="📡卫视频道",西藏卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="📡卫视频道",重庆卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png"  group-title="📡卫视频道",东南卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="📡卫视频道",青海卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png"  group-title="📡卫视频道",宁夏卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png"  group-title="📡卫视频道",新疆卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+#EXTINF:-1  tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png"  group-title="📡卫视频道",兵团卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png"  group-title="📡卫视频道",三沙卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+
+
+
+#EXTINF:-1 group-title="体育💓纪录",风云足球
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+#EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png"  group-title="体育💓纪录",求索纪录
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
+
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png",湖南卫视
-http://8.138.7.223/tv/migu.php?id=hunws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png",江西卫视
-http://8.138.7.223/tv/migu.php?id=jxws
+http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png",江苏卫视
-http://8.138.7.223/tv/migu.php?id=jsws
-#EXTINF:-1 group-title="💓专享卫视",东南卫视x
-http://8.138.7.223/tv/migu.php?id=dnws
-#EXTINF:-1 group-title="💓专享卫视",海峡卫视
-http://8.138.7.223/tv/migu.php?id=hxws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png",广东卫视
-http://8.138.7.223/tv/migu.php?id=gdws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png",大湾区卫视
-http://8.138.7.223/tv/migu.php?id=dwqws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png",广西卫视
-http://8.138.7.223/tv/migu.php?id=gxws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png",云南卫视
-http://8.138.7.223/tv/migu.php?id=ynws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png",贵州卫视
-http://8.138.7.223/tv/migu.php?id=gzws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png",新疆卫视
-http://8.138.7.223/tv/migu.php?id=xjws
-#EXTINF:-1 group-title="💓专享卫视",西藏卫视
-http://8.138.7.223/tv/migu.php?id=xzws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png",海南卫视
-http://8.138.7.223/tv/migu.php?id=hinws
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
-http://8.138.214.88:47681/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png",江苏卫视
-http://8.138.214.88:47681/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png",广东卫视
-http://8.138.214.88:47681/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png",江西卫视
-http://8.138.214.88:47681/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png",河南卫视
-http://8.138.214.88:47681/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="💓专享卫视",陕西卫视
-http://8.138.214.88:47681/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png",大湾区卫视
-http://8.138.214.88:47681/mgtv/608917627.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png",安徽卫视
+http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
+
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
+http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png",湖北卫视
-http://8.138.214.88:47681/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png",吉林卫视
-http://8.138.214.88:47681/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="💓专享卫视",青海卫视
-http://8.138.214.88:47681/mgtv/947472506.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
+
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png",天津卫视
+http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png",河北卫视
+http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视",重庆卫视
+http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png",黑龙江卫视
+http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
+http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png",广东卫视
+http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视",辽宁卫视
+http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",山东卫视
+http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png",东南卫视
-http://8.138.214.88:47681/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png",海南卫视
-http://8.138.214.88:47681/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="💓专享卫视",海峡卫视
-http://8.138.214.88:47681/mgtv/849119120.m3u8
+http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png",贵州卫视
+http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 
 #EXTINF:-1,浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
