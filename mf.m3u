@@ -103,8 +103,11 @@ http://8.138.7.223/tv/migu666.php?name=CETV4
 
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
 http://111.43.126.240:9003/hls/41/index.m3u8
+#EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+
 #EXTINF:-1 group-title="💓专享卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
-http://8.138.7.223/tv/migu666.php?name=东方卫视
+http://111.43.126.240:9003/hls/39/index.m3u8
 
 
 #EXTINF:-1 group-title="💓专享卫视",重庆卫视
