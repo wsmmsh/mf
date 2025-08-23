@@ -290,6 +290,7 @@ http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=68
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/青海卫视.png"  group-title="省份卫视",青海卫视
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000042
+http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=QHWSyn/index.m3u8
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiHD/__op/default/__f/index.m3u8
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 
