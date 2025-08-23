@@ -138,35 +138,19 @@ https://tv-1.iill.top/phenix/fhhk
 #EXTINF:-1 ,星空卫视
 https://z02.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
 http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/84167277
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/香港卫视.png" group-title="卫视频道",香港卫视
+#EXTINF:-1  tvg-name="香港卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 group-title="港澳台",澳视澳门
+#EXTINF:-1  tvg-name="澳视澳门" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/澳视澳门.png"  group-title="港澳台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
+http://php.jdshipin.com/PLTV/iptv.php?id=asam
 #EXTINF:-1 group-title="港澳台",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="港澳台",澳门Mac
 http://php.jdshipin.com/PLTV/iptv.php?id=as
-#EXTINF:-1 group-title="港澳台",澳视澳门
-http://php.jdshipin.com/PLTV/iptv.php?id=asam
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png"  group-title="港澳台",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png"  group-title="港澳台",中天新聞台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-
-
-#EXTINF:-1  tvg-name="CETV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV1.png"  group-title="中国教育",CETV1
-https://tv-1.iill.top/migu/cetv1
-#EXTINF:-1  tvg-name="CETV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV1.png"  group-title="中国教育",CETV1
-http://8.138.7.223/tv/migu666.php?name=CETV1
-#EXTINF:-1  tvg-name="CETV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV2.png"  group-title="中国教育",CETV2
-https://tv-1.iill.top/migu/cetv2
-#EXTINF:-1  tvg-name="CETV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV2.png"  group-title="中国教育",CETV2
-http://8.138.7.223/tv/migu666.php?name=CETV2
-#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV4.png"  group-title="中国教育",CETV4
-https://tv-1.iill.top/migu/cetv4
-#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV4.png"  group-title="中国教育",CETV4
-http://8.138.7.223/tv/migu666.php?name=CETV4
 
 #EXTINF:-1 group-title="省份卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/北京卫视.png",北京卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
@@ -189,6 +173,9 @@ http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="省份卫视",山西卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
 
 #EXTINF:-1  tvg-name="辽宁卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/辽宁卫视.png"  group-title="省份卫视",辽宁卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
@@ -266,11 +253,6 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op
 #EXTINF:-1  tvg-name="广东卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/广东卫视.png"  group-title="省份卫视",广东卫视
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 
-#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/深圳卫视.png"  group-title="省份卫视",深圳卫视
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/深圳卫视.png"  group-title="省份卫视",深圳卫视
-http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
-
 #EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/广西卫视.png"  group-title="省份卫视",广西卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 
@@ -288,18 +270,25 @@ http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/云南卫视.png"  group-title="省份卫视",云南卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 
-#EXTINF:-1 group-title="省份卫视",西藏卫视
+#EXTINF:-1  tvg-name="西藏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/西藏卫视.png"  group-title="省份卫视",西藏卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+http://php.jdshipin.com:8880/xztv.php?id=ws
 
-#EXTINF:-1 group-title="省份卫视",重庆卫视
+#EXTINF:-1  tvg-name="重庆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/重庆卫视.png"  group-title="省份卫视",重庆卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="省份卫视",重庆卫视
+EXTINF:-1  tvg-name="重庆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/重庆卫视.png"  group-title="省份卫视",重庆卫视
 http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 
-#EXTINF:-1 group-title="省份卫视",陕西卫视
+#EXTINF:-1  tvg-name="陕西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/陕西卫视.png"   group-title="省份卫视",陕西卫视
 https://tv-1.iill.top/migu/sxws
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000007495
 
-#EXTINF:-1 group-title="省份卫视",青海卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/甘肃卫视.png" group-title="省份卫视",甘肃卫视
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010098
+http://180.165.132.50:5003/gsws.m3u8?token=7375646f484b0da30cd3b1925793ddc32895d8c0&z=1f48
+http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=GSWSeP/index.m3u8
+
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/青海卫视.png"  group-title="省份卫视",青海卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 
 #EXTINF:-1  tvg-name="宁夏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/宁夏卫视.png"  group-title="省份卫视",宁夏卫视
@@ -308,16 +297,38 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ningxia/__op/def
 #EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/新疆卫视.png"  group-title="省份卫视",新疆卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
 
+
+#地方卫视
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/深圳卫视.png"  group-title="地方卫视",深圳卫视
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/深圳卫视.png"  group-title="地方卫视",深圳卫视
+http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/大湾区卫视.png" group-title="地方卫视",大湾区卫视
+http://php.jdshipin.com:8880/chudian.php?id=nfws
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108
 #EXTINF:-1  group-title="地方卫视",上海新闻综合
 https://tv-1.iill.top/migu/shxw
 #EXTINF:-1  group-title="地方卫视",上视东方影视
 https://tv-1.iill.top/migu/shys
 #EXTINF:-1  group-title="地方卫视",海峡卫视
 https://tv-1.iill.top/migu/hxws
-#EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/三沙卫视.png"  group-title="省份卫视",三沙卫视
+#EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/三沙卫视.png"  group-title="地方卫视",三沙卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
-#EXTINF:-1  tvg-name="兵团卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/兵团卫视.png"  group-title="省份卫视",兵团卫视
+#EXTINF:-1  tvg-name="兵团卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/兵团卫视.png"  group-title="地方卫视",兵团卫视
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CETV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV1.png"  group-title="中国教育",CETV1
+https://tv-1.iill.top/migu/cetv1
+#EXTINF:-1  tvg-name="CETV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV1.png"  group-title="中国教育",CETV1
+http://8.138.7.223/tv/migu666.php?name=CETV1
+#EXTINF:-1  tvg-name="CETV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV2.png"  group-title="中国教育",CETV2
+https://tv-1.iill.top/migu/cetv2
+#EXTINF:-1  tvg-name="CETV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV2.png"  group-title="中国教育",CETV2
+http://8.138.7.223/tv/migu666.php?name=CETV2
+#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV4.png"  group-title="中国教育",CETV4
+https://tv-1.iill.top/migu/cetv4
+#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CETV4.png"  group-title="中国教育",CETV4
+http://8.138.7.223/tv/migu666.php?name=CETV4
 
 #EXTINF:-1 group-title="体育💓纪录",CHC影迷电影
 https://tv-1.iill.top/migu/chcym
@@ -337,6 +348,9 @@ https://tv-1.iill.top/migu/kzjd
 https://tv-1.iill.top/migu/xssh
 #EXTINF:-1 group-title="体育💓纪录",风云足球
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/五星体育.png" group-title="体育💓纪录",五星体育
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
+https://hls-gateway.vpstv.net/streams/636980.m3u8
 #EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/求索纪录.png"  group-title="体育💓纪录",求索纪录
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="体育💓纪录",四海钓鱼
