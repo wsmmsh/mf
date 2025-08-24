@@ -1,5 +1,5 @@
 #MMSH制作，20250824更新
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz"
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视",CCTV1综合
