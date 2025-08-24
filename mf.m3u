@@ -1,6 +1,6 @@
 #MMSH制作，20250824更新
 #电子节目单信息，通过tvg-name关联
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 
 #央视
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视",CCTV1综合
@@ -47,7 +47,6 @@ http://110.42.54.199:35455/mgtv/673168140.m3u8
 https://tv-1.iill.top/migu/cctv10
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 http://110.42.54.199:35455/mgtv/624878405.m3u8
-http://ygbh.site/php/bfgd.php?id=129
 #EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV11.png"  group-title="央视",CCTV11戏曲
 https://tv-1.iill.top/migu/cctv11
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
