@@ -22,7 +22,7 @@ http://110.42.54.199:35455/mgtv/631780421.m3u8
 https://tv-1.iill.top/migu/cctv5
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
 http://110.42.54.199:35455/mgtv/641886683.m3u8
-#EXTINF:-1  tvg-name="CCTV5plus" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV5plus.png"  group-title="央视",CCTV5+体育赛事
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV5plus.png"  group-title="央视",CCTV5+体育赛事
 https://tv-1.iill.top/migu/cctv5p
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 http://110.42.54.199:35455/mgtv/641886773.m3u8
@@ -111,6 +111,7 @@ https://tv-1.iill.top/phenix/fhhk
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1  tvg-name="香港卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 #EXTINF:-1  tvg-name="澳视澳门" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/澳视澳门.png"  group-title="港澳台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
@@ -128,7 +129,7 @@ http://s1.an94tv.cfd/zhongtian/CH-4/AKTV.m3u8
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 #EXTINF:-1  tvg-name="东森新闻" tvg-logo="http://bxtv.3a.ink/logo/东森新闻.png"  group-title="港澳台",东森新闻
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-#EXTINF:-1  tvg-name="民视新闻" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png"  group-title="港澳台",民视新闻台
+#EXTINF:-1  tvg-name="民视新闻台" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png"  group-title="港澳台",民视新闻台
 http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8
 
 
@@ -340,34 +341,32 @@ https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E7%BB%8F%E6%B5%8E&
 #EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西黄河.png" group-title="山西省内",黄河电视台
 http://123.174.106.183:8888/udp/239.1.1.2:8002
 https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E9%BB%84%E6%B2%B3&t=1755401429&token=9f1474a46edab2bae4e0f6eaeecc9110
-#EXTINF:-1 group-title="山西省内",五台综合
-https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
-https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
-https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd&amp;quot;
-#EXTINF:-1 group-title="山西省内",太谷新闻综合
+#EXTINF:-1 tvg-name="平遥融媒" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/平遥融媒.png" group-title="山西省内",平遥电视台
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+#EXTINF:-1 tvg-name="太谷电视台" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/太谷电视台.png" group-title="山西省内",太谷新闻综合
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+#EXTINF:-1 tvg-name="五台融媒" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/五台融媒.png" group-title="山西省内",五台电视台
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd&amp;quot;
+#EXTINF:-1 tvg-name="祁县电视台" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/祁县电视台.png" group-title="山西省内",祁县新闻综合
+http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
+#EXTINF:-1 tvg-name="长治公共" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/长治公共.png" group-title="山西省内",长治公共
+http://live.njgdmm.com/changzhi/cztv2.m3u8
+#EXTINF:-1 tvg-name="阳曲综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/阳曲综合.png" group-title="山西省内",阳曲综合
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 #EXTINF:-1 group-title="山西省内",怀仁综合
 http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 #EXTINF:-1 tvg-name="汾西综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/汾西综合.png" group-title="山西省内",汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-#EXTINF:-1 tvg-name="祁县新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/祁县新闻综合.png" group-title="山西省内",祁县新闻综合
-http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
-#EXTINF:-1 tvg-name="运城科技教育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/运城科技教育.png" group-title="山西省内",运城科技教育
-https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-1.m3u8
-#EXTINF:-1 tvg-name="长子综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/长子综合.png" group-title="山西省内",长子综合
+#EXTINF:-1 group-title="山西省内",长子综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
-#EXTINF:-1 tvg-name="长子综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/长子综合.png" group-title="山西省内",长子综合
 https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
-#EXTINF:-1 tvg-name="长治公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/长治公共.png" group-title="山西省内",长治公共
-http://live.njgdmm.com/changzhi/cztv2.m3u8
-#EXTINF:-1 tvg-name="阳曲综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/阳曲综合.png" group-title="山西省内",阳曲综合
-https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
-#EXTINF:-1 tvg-name="黎城综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黎城综合.png" group-title="山西省内",黎城综合
-http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+
 
 
 #地方卫视
