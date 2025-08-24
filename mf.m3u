@@ -1,4 +1,4 @@
-#MMSH制作，20250824制作。
+#MMSH制作，更新于2025年8月24日 20:43:43。
 
 
 #电视节目指南
@@ -170,9 +170,9 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/def
 https://mursor.ottiptv.cc/mcp/jiling.m3u8
 
 #EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/黑龙江卫视.png"  group-title="省份卫视",黑龙江卫视
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-#EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/黑龙江卫视.png"  group-title="省份卫视",黑龙江卫视
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/黑龙江卫视.png"  group-title="省份卫视",黑龙江卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8
@@ -325,6 +325,7 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xinjiangSD/__op/
 #山西省内电视
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="省内频道",山西卫视
 http://123.174.106.183:8888/udp/239.1.1.1:8001
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d1sqrR0.m3u8
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="省内频道",山西卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mcp/shanxi.m3u8
