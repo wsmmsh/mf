@@ -2,12 +2,12 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 #央视
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视",CCTV1综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视",CCTV1综合
 https://tv-1.iill.top/migu/cctv1
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 https://live.tvfix.org/live/cctv1hd/index.m3u8
-#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视",CCTV2财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视",CCTV2财经
 https://tv-1.iill.top/migu/cctv2
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV3.png"  group-title="央视",CCTV3综艺
