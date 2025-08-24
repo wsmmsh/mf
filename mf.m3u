@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年8月24日 18:16:04。
+#MMSH制作，20250824制作。
 
 
 #电视节目指南
@@ -376,17 +376,17 @@ https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 #EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/深圳卫视.png"  group-title="地方卫视",深圳卫视
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/大湾区卫视.png" group-title="地方卫视",大湾区卫视
+#EXTINF:-1  tvg-name="大湾区卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/大湾区卫视.png" group-title="地方卫视",大湾区卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=83f735ea82c887da4a9b16b00307bc6d5b4ccb1cee6adff2376f78bc7e3565d73fd82608dbfab56a323e574756cfa79144ebc769dbebc06da1af0699c337be2847b75ea71a97dc929d4f01fd9a
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海新闻综合.png" group-title="地方卫视",上海新闻综合
+#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海新闻综合.png" group-title="地方卫视",上海新闻综合
 https://tv-1.iill.top/migu/shxw
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海新闻综合.png" group-title="地方卫视",上海新闻综合
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海新闻综合.png" group-title="地方卫视",上海新闻综合
+#EXTVLCOPT: http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=380a7faf2e352559fd3dbd6262f3cc12e38fd630ffbbe1c687fac7f5d47175d0e2ebee659e5feb4d70750e6b4e5d4c23dd4f80d9671c7247b839dba9381ae940c878a56e7d12dabd21ad3db005
-#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
+#EXTINF:-1  tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
 https://tv-1.iill.top/migu/shys
-#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
+#EXTINF:-1  tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/migu/617290047.m3u8?migutoken=97276170a71262215b2bd02fd9c0034ac22d6ed5db0333eeb17e693c8884d9ae79257165ec5786e9f49ca21d521822134a98ae03b070799ae56f179f10d1dafdf355cd078963dcba64b6797578
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海峡卫视.png"  group-title="地方卫视",海峡卫视
