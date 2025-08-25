@@ -1,6 +1,10 @@
 #重庆有线 第三方代理？来源于网络
 
 央视,#genre#
+
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/北京卫视.png"  group-title="省份卫视",北京卫视
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/mcp/beijing.m3u8
 CCTV1,https://cqcb.iptv.darwinchow.com/cctv1HD
 CCTV2,https://cqcb.iptv.darwinchow.com/cctv2HD
 CCTV3,https://cqcb.iptv.darwinchow.com/cctv3HD
