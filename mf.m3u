@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年8月27日 23:24:03。
+#MMSH制作，更新于2025年8月24日 20:44:02。
 #敬告：本源已绑定访问IP地址，请勿抄袭，否则会被永久禁用。
 
 #电视节目指南
@@ -9,8 +9,9 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
 https://live.tv.darwinchow.com/channel/cctv1?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://tv-1.iill.top/migu/cctv1
-https://live.tvfix.org/live/cctv1hd/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视频道",CCTV2财经
