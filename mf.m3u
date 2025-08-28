@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年8月24日 20:44:02。
+#MMSH制作，更新于2025年8月28日 09:16:06。
 #敬告：本源已绑定访问IP地址，请勿抄袭，否则会被永久禁用。
 
 #电视节目指南
@@ -9,10 +9,10 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
 https://live.tv.darwinchow.com/channel/cctv1?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://tv-1.iill.top/migu/cctv1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视频道",CCTV2财经
 https://live.tv.darwinchow.com/channel/cctv2?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
@@ -105,21 +105,21 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/defa
 
 
 #港澳台电视
-#EXTINF:-1  tvg-name="凤凰中文" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰中文.png"  group-title="港澳台",凤凰中文
+#EXTINF:-1  tvg-name="凤凰中文" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视中文台.png"  group-title="港澳台",凤凰中文
 https://tv-1.iill.top/phenix/fhzw
 http://bxtv.3a.ink/api.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 
 
-#EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰资讯.png"  group-title="港澳台",凤凰资讯
+#EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视资讯台.png"  group-title="港澳台",凤凰资讯
 https://tv-1.iill.top/phenix/fhzx
 http://bxtv.3a.ink/api.php?id=fhzx
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 
-#EXTINF:-1  tvg-name="凤凰香港" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰香港.png"  group-title="港澳台",凤凰香港
+#EXTINF:-1  tvg-name="凤凰香港" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视香港台.png"  group-title="港澳台",凤凰香港
 https://tv-1.iill.top/phenix/fhhk
 http://bxtv.3a.ink/api.php?id=fhhk
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
@@ -144,23 +144,23 @@ https://tv-1.iill.top/litv/4gtv-4gtv009
 http://bxtv.3a.ink/api.php?id=ztxw
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:-1  tvg-name="中视新闻" tvg-logo="http://bxtv.3a.ink/logo/中视新闻.png"  group-title="港澳台",中视新闻
+#EXTINF:-1  tvg-name="中视新闻" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/中视新闻.png"  group-title="港澳台",中视新闻
 https://tv-1.iill.top/litv/4gtv-4gtv074
 http://s1.an94tv.cfd/zhongtian/CH-3/AKTV.m3u8
 
-#EXTINF:-1  tvg-name="台视新闻" tvg-logo="http://bxtv.3a.ink/logo/台视新闻.png"  group-title="港澳台",台视新闻
+#EXTINF:-1  tvg-name="台视新闻" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/台视新闻.png"  group-title="港澳台",台视新闻
 https://tv-1.iill.top/litv/4gtv-4gtv051
 http://s1.an94tv.cfd/zhongtian/CH-4/AKTV.m3u8
 
-#EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="http://bxtv.3a.ink/logo/寰宇新闻.png"  group-title="港澳台",寰宇新闻台
+#EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/寰宇新闻.png"  group-title="港澳台",寰宇新闻台
 https://tv-1.iill.top/litv/litv-longturn14
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 
-#EXTINF:-1  tvg-name="东森新闻" tvg-logo="http://bxtv.3a.ink/logo/东森新闻.png"  group-title="港澳台",东森新闻
+#EXTINF:-1  tvg-name="东森新闻" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/东森新闻.png"  group-title="港澳台",东森新闻
 https://tv-1.iill.top/litv/4gtv-4gtv152
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-#EXTINF:-1  tvg-name="民视新闻台" tvg-logo="http://bxtv.3a.ink/logo/民视新闻.png"  group-title="港澳台",民视新闻台
+#EXTINF:-1  tvg-name="民视新闻台" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/民视新闻.png"  group-title="港澳台",民视新闻台
 https://tv-1.iill.top/litv/litv-ftv13
 http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8
 
@@ -192,6 +192,7 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hebeiSD/__op/def
 https://mursor.ottiptv.cc/mcp/hebei.m3u8
 
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=587d81a425a142a0ae9d3d50c16cae94
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mcp/neimenggu.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
