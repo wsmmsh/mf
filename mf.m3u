@@ -92,19 +92,16 @@ http://bxtv.3a.ink/api.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 
-
 #EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视资讯台.png"  group-title="港澳台",凤凰资讯
 https://tv-1.iill.top/phenix/fhzx
 http://bxtv.3a.ink/api.php?id=fhzx
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-
 #EXTINF:-1  tvg-name="凤凰香港" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视香港台.png"  group-title="港澳台",凤凰香港
 https://tv-1.iill.top/phenix/fhhk
 http://bxtv.3a.ink/api.php?id=fhhk
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-
 
 #EXTINF:-1  tvg-name="星空卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/星空卫视.png" group-title="港澳台",星空卫视
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
@@ -151,7 +148,6 @@ http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8
 https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://live.tv.darwinchow.com/channel/beijingweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 #EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/北京卫视.png"  group-title="省份卫视",北京卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mcp/beijing.m3u8
@@ -159,7 +155,6 @@ https://mursor.ottiptv.cc/mcp/beijing.m3u8
 #EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/天津卫视.png"  group-title="省份卫视",天津卫视
 https://live.tv.darwinchow.com/channel/tianjinweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 #EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/天津卫视.png"  group-title="省份卫视",天津卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mcp/tianjing.m3u8
@@ -167,7 +162,6 @@ https://mursor.ottiptv.cc/mcp/tianjing.m3u8
 #EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/河北卫视.png"  group-title="省份卫视",河北卫视
 https://live.tv.darwinchow.com/channel/hebeiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
 #EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/河北卫视.png"  group-title="省份卫视",河北卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 https://mursor.ottiptv.cc/mcp/hebei.m3u8
