@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年8月29日 08:45:12。
+#MMSH制作，更新于2025年9月1日 10:45:58。
 #敬告：本源已绑定访问IP地址，请勿抄袭，否则会被永久禁用。
 
 #电视节目指南
@@ -10,7 +10,7 @@
 https://live.tv.darwinchow.com/channel/cctv1?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://tv-1.iill.top/migu/cctv1
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视频道",CCTV2财经
@@ -149,26 +149,26 @@ https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WXnVCfvoxLT5j68
 https://live.tv.darwinchow.com/channel/beijingweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/北京卫视.png"  group-title="省份卫视",北京卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/beijing.m3u8
 
 #EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/天津卫视.png"  group-title="省份卫视",天津卫视
 https://live.tv.darwinchow.com/channel/tianjinweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 #EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/天津卫视.png"  group-title="省份卫视",天津卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/tianjing.m3u8
 
 #EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/河北卫视.png"  group-title="省份卫视",河北卫视
 https://live.tv.darwinchow.com/channel/hebeiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 #EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/河北卫视.png"  group-title="省份卫视",河北卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/hebei.m3u8
 
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=587d81a425a142a0ae9d3d50c16cae94
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/neimenggu.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/内蒙古卫视.png" group-title="省份卫视",内蒙古卫视
 https://live.tv.darwinchow.com/channel/neimengguweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
@@ -177,13 +177,13 @@ https://live.tv.darwinchow.com/channel/neimengguweishi?livekey=01WXnVCfvoxLT5j68
 https://live.tv.darwinchow.com/channel/liaoningweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
 #EXTINF:-1  tvg-name="辽宁卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/辽宁卫视.png"  group-title="省份卫视",辽宁卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/neimenggu.m3u8
 
 #EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/吉林卫视.png"  group-title="省份卫视",吉林卫视
 https://live.tv.darwinchow.com/channel/jilinweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/吉林卫视.png"  group-title="省份卫视",吉林卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/jiling.m3u8
 
 #EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/黑龙江卫视.png"  group-title="省份卫视",黑龙江卫视
@@ -191,14 +191,14 @@ https://live.tv.darwinchow.com/channel/heilongjiangweishi?livekey=01WXnVCfvoxLT5
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/黑龙江卫视.png"  group-title="省份卫视",黑龙江卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8
 
 #EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/东方卫视.png"  group-title="省份卫视",东方卫视
 https://live.tv.darwinchow.com/channel/dongfangweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 #EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/东方卫视.png"  group-title="省份卫视",东方卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/dongfang.m3u8
 https://tv-1.iill.top/migu/dfws
 http://111.43.126.240:9003/hls/39/index.m3u8
@@ -208,7 +208,7 @@ https://live.tv.darwinchow.com/channel/jiangsuweishi?livekey=01WXnVCfvoxLT5j683v
 http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
 https://tv-1.iill.top/migu/jsws
 #EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/江苏卫视.png"  group-title="省份卫视",江苏卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/jiangsu.m3u8
 
 #EXTINF:-1  tvg-name="浙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/浙江卫视.png"  group-title="省份卫视",浙江卫视
@@ -216,14 +216,14 @@ https://live.tv.darwinchow.com/channel/zhejiangweishi?livekey=01WXnVCfvoxLT5j683
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1  tvg-name="浙江卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/浙江卫视.png"  group-title="省份卫视",浙江卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/zhejiang.m3u8
 
 #EXTINF:-1  tvg-name="安徽卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/安徽卫视.png"  group-title="省份卫视",安徽卫视
 https://live.tv.darwinchow.com/channel/anhuiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 #EXTINF:-1  tvg-name="安徽卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/安徽卫视.png"  group-title="省份卫视",安徽卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/anhui.m3u8
 
 #EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/东南卫视.png"  group-title="省份卫视",东南卫视
@@ -231,27 +231,27 @@ https://live.tv.darwinchow.com/channel/dongnanweishi?livekey=01WXnVCfvoxLT5j683v
 http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 https://tv-1.iill.top/migu/dnws
 #EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/东南卫视.png"  group-title="省份卫视",东南卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/dongnan.m3u8
 
 #EXTINF:-1  tvg-name="江西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/江西卫视.png"  group-title="省份卫视",江西卫视
 https://live.tv.darwinchow.com/channel/jiangxiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://tv-1.iill.top/migu/jxws
 #EXTINF:-1  tvg-name="江西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/江西卫视.png"  group-title="省份卫视",江西卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/jiangxi.m3u8
 
 #EXTINF:-1  tvg-name="山东卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山东卫视.png"  group-title="省份卫视",山东卫视
 https://live.tv.darwinchow.com/channel/shandongweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
 #EXTINF:-1  tvg-name="山东卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山东卫视.png"  group-title="省份卫视",山东卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/shandong.m3u8
 
 #EXTINF:-1  tvg-name="河南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/河南卫视.png"  group-title="省份卫视",河南卫视
 https://live.tv.darwinchow.com/channel/henanweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="河南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/河南卫视.png"  group-title="省份卫视",河南卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/henan.m3u8
 
 #EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/湖北卫视.png"  group-title="省份卫视",湖北卫视
@@ -259,14 +259,14 @@ https://live.tv.darwinchow.com/channel/hubeiweishi?livekey=01WXnVCfvoxLT5j683v2c
 http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
 https://tv-1.iill.top/migu/hubws
 #EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/湖北卫视.png"  group-title="省份卫视",湖北卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/hubei.m3u8
 
 #EXTINF:-1  tvg-name="湖南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/湖南卫视.png"  group-title="省份卫视",湖南卫视
 https://live.tv.darwinchow.com/channel/hunanweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 #EXTINF:-1  tvg-name="湖南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/湖南卫视.png"  group-title="省份卫视",湖南卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/hunan.m3u8
 http://ygbh.site/php/bfgd.php?id=086
  
@@ -275,14 +275,14 @@ https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WXnVCfvoxLT5j
 https://live.tv.darwinchow.com/channel/guangdongweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 #EXTINF:-1  tvg-name="广东卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/广东卫视.png"  group-title="省份卫视",广东卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/guangdong.m3u8
 https://tv-1.iill.top/migu/gdws
 
 #EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/广西卫视.png"  group-title="省份卫视",广西卫视
 https://live.tv.darwinchow.com/channel/guangxiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/广西卫视.png"  group-title="省份卫视",广西卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/guangxi.m3u8
 
 #EXTINF:-1  tvg-name="海南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海南卫视.png"  group-title="省份卫视",海南卫视
@@ -290,13 +290,13 @@ https://live.tv.darwinchow.com/channel/hainanweishi?livekey=01WXnVCfvoxLT5j683v2
 http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1  tvg-name="海南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海南卫视.png"  group-title="省份卫视",海南卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/hainan.m3u8
 
 #EXTINF:-1  tvg-name="四川卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四川卫视.png"  group-title="省份卫视",四川卫视
 https://live.tv.darwinchow.com/channel/sichuanweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="四川卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四川卫视.png"  group-title="省份卫视",四川卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/sichuan.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8
 
@@ -304,13 +304,13 @@ http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8
 https://live.tv.darwinchow.com/channel/guizhouweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1  tvg-name="贵州卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/贵州卫视.png"  group-title="省份卫视",贵州卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/guizhou.m3u8
 
 #EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/云南卫视.png"  group-title="省份卫视",云南卫视
 https://live.tv.darwinchow.com/channel/yunnanweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/云南卫视.png"  group-title="省份卫视",云南卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/yunnan.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1047_1.m3u8
 
@@ -318,14 +318,14 @@ http://gfr.x3322.net:9901/tsfile/live/1047_1.m3u8
 https://live.tv.darwinchow.com/channel/xizangweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1  tvg-name="西藏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/西藏卫视.png"  group-title="省份卫视",西藏卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/xizang.m3u8
 
 #EXTINF:-1  tvg-name="重庆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/重庆卫视.png"  group-title="省份卫视",重庆卫视
 https://live.tv.darwinchow.com/channel/chongqingweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 #EXTINF:-1  tvg-name="重庆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/重庆卫视.png"  group-title="省份卫视",重庆卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/chongqing.m3u8
 
 #EXTINF:-1  tvg-name="陕西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/陕西卫视.png"   group-title="省份卫视",陕西卫视
@@ -338,7 +338,7 @@ http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8
 
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/甘肃卫视.png" group-title="省份卫视",甘肃卫视
 https://live.tv.darwinchow.com/channel/gansuweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/gansu.m3u8
 #720*576
 http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8
@@ -346,7 +346,7 @@ http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/青海卫视.png"  group-title="省份卫视",青海卫视
 https://live.tv.darwinchow.com/channel/qinghaiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/青海卫视.png"  group-title="省份卫视",青海卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/qinghai.m3u8
 #720*576
 http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
@@ -354,14 +354,14 @@ http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
 #EXTINF:-1  tvg-name="宁夏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/宁夏卫视.png"  group-title="省份卫视",宁夏卫视
 https://live.tv.darwinchow.com/channel/ningxiaweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="宁夏卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/宁夏卫视.png"  group-title="省份卫视",宁夏卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/ningxia.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8
 
 #EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/新疆卫视.png"  group-title="省份卫视",新疆卫视
 https://live.tv.darwinchow.com/channel/xinjiangweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 #EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/新疆卫视.png"  group-title="省份卫视",新疆卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/xinjiang.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8
 
@@ -370,7 +370,7 @@ http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="省内频道",山西卫视
 http://www.dsk.cc/php/sxgd.php?id=sxiws&m.m3u8
 #EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西卫视.png"  group-title="省内频道",山西卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/shanxi.m3u8
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d1sqrR0.m3u8
 https://live.tv.darwinchow.com/channel/shanxiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
@@ -432,22 +432,22 @@ https://live.tv.darwinchow.com/channel/shenzhenweishi?livekey=01WXnVCfvoxLT5j683
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 
 #EXTINF:-1  tvg-name="大湾区卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/大湾区卫视.png" group-title="地方卫视",大湾区卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=83f735ea82c887da4a9b16b00307bc6d5b4ccb1cee6adff2376f78bc7e3565d73fd82608dbfab56a323e574756cfa79144ebc769dbebc06da1af0699c337be2847b75ea71a97dc929d4f01fd9a
 
 #EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海新闻综合.png" group-title="地方卫视",上海新闻综合
-#EXTVLCOPT: http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT: http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=380a7faf2e352559fd3dbd6262f3cc12e38fd630ffbbe1c687fac7f5d47175d0e2ebee659e5feb4d70750e6b4e5d4c23dd4f80d9671c7247b839dba9381ae940c878a56e7d12dabd21ad3db005
 https://tv-1.iill.top/migu/shxw
 #EXTINF:-1  tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
 https://tv-1.iill.top/migu/shys
 #EXTINF:-1  tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/migu/617290047.m3u8?migutoken=97276170a71262215b2bd02fd9c0034ac22d6ed5db0333eeb17e693c8884d9ae79257165ec5786e9f49ca21d521822134a98ae03b070799ae56f179f10d1dafdf355cd078963dcba64b6797578
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海峡卫视.png"  group-title="地方卫视",海峡卫视
 https://tv-1.iill.top/migu/hxws
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海峡卫视.png"  group-title="地方卫视",海峡卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=1643587fc7c8eaf5025eb10da8b78ef118b4a71acf1816c6c2daed5c5051c1041539c4a3fcd99ce41c6f03016262e8381d76feaabf7fd7980061a780217d761fc753cced24b2556da0ead6e31e
 #EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/三沙卫视.png"  group-title="地方卫视",三沙卫视
 https://live.tv.darwinchow.com/channel/sanshaweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
@@ -457,13 +457,13 @@ http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 https://live.tv.darwinchow.com/channel/bingtuanweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
 #EXTINF:-1  tvg-name="兵团卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/兵团卫视.png"  group-title="地方卫视",兵团卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/mcp/bintuan.m3u8
 
 
 #体育与纪录频道
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="体育与纪录",五星体育
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
 #EXTINF:-1  tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC影迷电影.png"  group-title="体育与纪录",CHC影迷电影
@@ -485,7 +485,7 @@ https://live.tv.darwinchow.com/channel/qiusuojilu?livekey=01WXnVCfvoxLT5j683v2c0
 https://live.tv.darwinchow.com/channel/sihaidiaoyu?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://tv-1.iill.top/migu/shdy
 #EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼.png"  group-title="体育与纪录",四海钓鱼
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://mursor.ottiptv.cc/migu/637444975.m3u8?migutoken=2843f8ae750464f6a4f744ba84497ab2409de6cafc3dceeb9b6442fdbcf78efb47df9782b79b71471b8cbef9b428653a4e95f810e2f93c5f2ec91be85bb1d7275ecbe5fe3a39212e22ff75f9f6
 
 #以下体育与纪录频道无台标
