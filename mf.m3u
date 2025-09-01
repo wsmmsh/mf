@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年9月1日 15:41:40。
+#MMSH制作，更新于2025年9月1日 16:55:11。
 #敬告：本源已绑定访问IP地址，请勿抄袭，否则会被永久禁用。
 
 #电视节目指南
@@ -379,11 +379,11 @@ https://mursor.ottiptv.cc/mcp/shanxi.m3u8
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d1sqrR0.m3u8
 https://live.tv.darwinchow.com/channel/shanxiweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
-#EXTINF:-1  tvg-name="山西影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西影视.png" group-title="省内频道",山西影视
-https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86&t=1755401429&token=ede3e85ee9f6dcb814a558a5c41d265c
+#-1  tvg-name="山西影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西影视.png" group-title="省内频道",山西影视
+#https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86&t=1755401429&token=ede3e85ee9f6dcb814a558a5c41d265c
 
-#EXTINF:-1  tvg-name="山西经济与科技" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西经济与科技.png" group-title="省内频道",山西经济与科技
-https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E7%BB%8F%E6%B5%8E&t=1755401429&token=d5c1035f64bc4cf3940d576a73caa6c4
+#-1  tvg-name="山西经济与科技" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西经济与科技.png" group-title="省内频道",山西经济与科技
+#https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E7%BB%8F%E6%B5%8E&t=1755401429&token=d5c1035f64bc4cf3940d576a73caa6c4
 
 #-1  tvg-name="山西社会与法治" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西社会与法治.png" group-title="省内频道",山西社会与法治
 #http://123.174.106.183:8888/udp/239.1.1.5:8005
@@ -391,9 +391,9 @@ https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E7%BB%8F%E6%B5%8E&
 #-1  tvg-name="山西文体生活" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西文体生活.png" group-title="省内频道",山西文体生活
 #http://123.174.106.183:8888/udp/239.1.1.6:8006
 
-#EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西黄河.png" group-title="省内频道",黄河电视台
+#-1 tvg-name="黄河卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/山西黄河.png" group-title="省内频道",黄河电视台
 #http://123.174.106.183:8888/udp/239.1.1.2:8002
-https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E9%BB%84%E6%B2%B3&t=1755401429&token=9f1474a46edab2bae4e0f6eaeecc9110
+#https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E9%BB%84%E6%B2%B3&t=1755401429&token=9f1474a46edab2bae4e0f6eaeecc9110
 
 #EXTINF:-1 tvg-name="平遥融媒" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/平遥融媒.png" group-title="省内频道",平遥电视台
 https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
@@ -435,24 +435,14 @@ https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WXnVCfvoxLT5j6
 https://live.tv.darwinchow.com/channel/shenzhenweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 
-#EXTINF:-1  tvg-name="大湾区卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/大湾区卫视.png" group-title="地方卫视",大湾区卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
-https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=83f735ea82c887da4a9b16b00307bc6d5b4ccb1cee6adff2376f78bc7e3565d73fd82608dbfab56a323e574756cfa79144ebc769dbebc06da1af0699c337be2847b75ea71a97dc929d4f01fd9a
+#-1  tvg-name="大湾区卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/大湾区卫视.png" group-title="地方卫视",大湾区卫视
 
 #EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海新闻综合.png" group-title="地方卫视",上海新闻综合
-#EXTVLCOPT: http-user-agent=okHttp/Mod-1.2.0
-https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=380a7faf2e352559fd3dbd6262f3cc12e38fd630ffbbe1c687fac7f5d47175d0e2ebee659e5feb4d70750e6b4e5d4c23dd4f80d9671c7247b839dba9381ae940c878a56e7d12dabd21ad3db005
 https://tv-1.iill.top/migu/shxw
 #EXTINF:-1  tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
 https://tv-1.iill.top/migu/shys
-#EXTINF:-1  tvg-name="上视东方影视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/上海东方影视.png" group-title="地方卫视",上视东方影视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
-https://mursor.ottiptv.cc/migu/617290047.m3u8?migutoken=97276170a71262215b2bd02fd9c0034ac22d6ed5db0333eeb17e693c8884d9ae79257165ec5786e9f49ca21d521822134a98ae03b070799ae56f179f10d1dafdf355cd078963dcba64b6797578
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海峡卫视.png"  group-title="地方卫视",海峡卫视
 https://tv-1.iill.top/migu/hxws
-#EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/海峡卫视.png"  group-title="地方卫视",海峡卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
-https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=1643587fc7c8eaf5025eb10da8b78ef118b4a71acf1816c6c2daed5c5051c1041539c4a3fcd99ce41c6f03016262e8381d76feaabf7fd7980061a780217d761fc753cced24b2556da0ead6e31e
 #EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/三沙卫视.png"  group-title="地方卫视",三沙卫视
 https://live.tv.darwinchow.com/channel/sanshaweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
@@ -488,9 +478,6 @@ https://live.tv.darwinchow.com/channel/qiusuojilu?livekey=01WXnVCfvoxLT5j683v2c0
 #EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼.png"  group-title="体育与纪录",四海钓鱼
 https://live.tv.darwinchow.com/channel/sihaidiaoyu?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://tv-1.iill.top/migu/shdy
-#EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼.png"  group-title="体育与纪录",四海钓鱼
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
-https://mursor.ottiptv.cc/migu/637444975.m3u8?migutoken=2843f8ae750464f6a4f744ba84497ab2409de6cafc3dceeb9b6442fdbcf78efb47df9782b79b71471b8cbef9b428653a4e95f810e2f93c5f2ec91be85bb1d7275ecbe5fe3a39212e22ff75f9f6
 
 #以下体育与纪录频道无台标
 #EXTINF:-1 group-title="体育与纪录",新片放映
