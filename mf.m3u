@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年9月1日 10:45:58。
+#MMSH制作，更新于2025年9月1日 15:41:40。
 #敬告：本源已绑定访问IP地址，请勿抄袭，否则会被永久禁用。
 
 #电视节目指南
@@ -89,21 +89,25 @@ https://live.tv.darwinchow.com/channel/fengyunzuqiu?livekey=01WXnVCfvoxLT5j683v2
 #EXTINF:-1  tvg-name="凤凰中文" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视中文台.png"  group-title="港澳台",凤凰中文
 https://tv-1.iill.top/phenix/fhzw
 http://bxtv.3a.ink/api.php?id=fhzw
+http://r.jdshipin.com/cCCzW
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 
 #EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视资讯台.png"  group-title="港澳台",凤凰资讯
 https://tv-1.iill.top/phenix/fhzx
 http://bxtv.3a.ink/api.php?id=fhzx
+http://r.jdshipin.com/0Rp07
 http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1  tvg-name="凤凰香港" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/凤凰卫视香港台.png"  group-title="港澳台",凤凰香港
 https://tv-1.iill.top/phenix/fhhk
 http://bxtv.3a.ink/api.php?id=fhhk
+http://r.jdshipin.com/yDoTN
 http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 
 #EXTINF:-1  tvg-name="星空卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/星空卫视.png" group-title="港澳台",星空卫视
+http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
 #EXTINF:-1  tvg-name="香港卫视" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/香港卫视.png" group-title="港澳台",香港卫视
