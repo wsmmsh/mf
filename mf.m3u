@@ -6,14 +6,17 @@
 
 
 #央视频道
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV4K.png" group-title="央视频道",CCTV-4K超高清
+https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
 https://live.tv.darwinchow.com/channel/cctv1?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://tv-1.iill.top/migu/cctv1
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视频道",CCTV2财经
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV2.png"  group-title="央视频道",CCTV2财经
 https://live.tv.darwinchow.com/channel/cctv2?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://tv-1.iill.top/migu/cctv2
 
@@ -22,7 +25,6 @@ https://live.tv.darwinchow.com/channel/cctv3?livekey=01WXnVCfvoxLT5j683v2c0a8kXo
 https://tv-1.iill.top/migu/cctv3
 
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV4.png"  group-title="央视频道",CCTV4中文国际
-https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://live.tv.darwinchow.com/channel/cctv4?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://tv-1.iill.top/migu/cctv4
 
@@ -456,7 +458,7 @@ https://mursor.ottiptv.cc/mcp/bintuan.m3u8
 
 
 #体育与纪录频道
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="体育与纪录",五星体育
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="体育与纪录",五星体育
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
